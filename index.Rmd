@@ -20,7 +20,7 @@ class:center, middle, inverse
 
 #### Cette présentation en ligne : 
 
-### [datactivist.coop/opendatacestquoi](datactivist.coop/opendatacestquoi)
+### [datactivist.coop/opendatacestquoi](datactivist.coop/opendatacestquoi/)
 
 Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
 ---
@@ -135,12 +135,12 @@ Dans le domaine des transports, d'inombrables applications sont basées sur des 
 .reduite[.center[![](https://datactivist.coop/dataliteracy/img/accidents.png)]]
 ---
 ### Exemple de données ouvertes : les inspections des restaurants
-.reduite2[.center[![](https://datactivist.coop/dataliteracy/img/aliminfos.png)]]
-.footnote[[Résultats des contrôles officiels sanitaires : dispositif d'information « Alim’confiance »](https://www.data.gouv.fr/fr/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/)]
+.reduite[.center[![](https://datactivist.coop/dataliteracy/img/aliminfos.png)]]
+.footnote[[Source »](https://www.data.gouv.fr/fr/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/)]
 ---
 ### Exemple de données ouvertes : Les inspections des restaurants
-.reduite2[.center[![](https://datactivist.coop/dataliteracy/img/resto.png)]]
-.footnote[[Source](https://dgal.opendatasoft.com/explore/embed/dataset/export_alimconfiance/map/?disjunctive.app_libelle_activite_etablissement&disjunctive.filtre&refine.synthese_eval_sanit=A%20corriger%20de%20mani%C3%A8re%20urgente&location=6,47.24195,5.00977&static=false&datasetcard=true)]
+.reduite2[.center[![](img/corriger.png)]]
+.footnote[[162 établissements à corriger de manière urgente](https://dgal.opendatasoft.com/explore/embed/dataset/export_alimconfiance/map/?disjunctive.app_libelle_activite_etablissement&disjunctive.filtre&refine.synthese_eval_sanit=A%20corriger%20de%20mani%C3%A8re%20urgente&location=6,47.24195,5.00977&static=false&datasetcard=true)]
 ---
 class:middle, center, inverse
 
