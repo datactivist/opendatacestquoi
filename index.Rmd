@@ -1,7 +1,7 @@
 ---
 title: "Open data : c'est quoi ce truc ?"
 subtitle: ""
-author: "#SuperDemain"
+author: "SuperDemain"
 date: "Lyon, 16 décembre 2018"
 output:
   SlidesDatactivist::moon_reader:
